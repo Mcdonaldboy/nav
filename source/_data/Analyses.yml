@@ -30,3 +30,7 @@
   url: https://coinmarketcap.com/
   img: https://s2.coinmarketcap.com/static/cloud/img/coinmarketcap_1.svg?_=137616c  
   description:  Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
+- name: alternative.me
+  url: https://alternative.me/crypto/fear-and-greed-index/
+  img: https://alternative.me/crypto/fear-and-greed-index.png  
+  description: 恐惧贪婪指数查看
